@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Quicksand:wght@300&display=swap');
+
+.main-c, .main-c2 {
+  
+  background-color: #FFE2E2;
+  width: 350px;
+  height: -100px;
+  border-radius: 20px;
+  border-right: -300px;
+  position: relative;
+  left: 475px;
+  bottom: -70px;
+  border-width: -330px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+
+.img {
+
+  max-width: 100px;
+  max-height: 100px;
+  border: radius 150px;
+  border-color: orange;
+  border-style: groove;
+  border-width: 20px;
+}
+
+#top-font {
+
+  color: dimgrey;
+  font-family: 'Quicksand', sans-serif;
+}
+
+#top-font2 {
+  
+  color: dimgrey;
+  font-family: 'Quicksand', sans-serif;
+}
+
+#other-font {
+  
+  color: dimgrey;
+  font-family: 'Quicksand', sans-serif;
+  font-size: medium;
+}
+
+#foot {
+  background-color: #112B3C;
+  height: 50px;
+  position: relative;
+  bottom: -80px;
+  color: dimgrey;
+  font-family: 'Quicksand', sans-serif;
+  font-size: medium;
+  text-align: justify;
+}
+
+#next-pg{
+
+  background-color: rgb(15, 32, 68);
+  color:dimgrey ;
+}
+
+#vide-bx1 {
+  max-width: 270px;
+  max-height: 170px;
+  
+}
+
+body {
+
+  background-image: url(https://i.postimg.cc/859NFWfH/starry-sky-clouds-sunset-120716-1920x1080.jpg);
+  background-size: cover;
+  border-left: 300px;
+  border-width: -330px;
+
+} 
+
+
+  
+
+
+
+
+
+
+
